@@ -1,4 +1,4 @@
-### thetinkeringtypist
+### Welcome to my GitHub Page!
 
 Just here with projects that aren't *completely* embarassing. All of that stuff remains private. Hopefully those projects turn into something worth sharing someday.
 
