@@ -1,5 +1,5 @@
-### Welcome to my GitHub Page!
+# Welcome to my GitHub Page!
 
-Just here with projects that aren't *completely* embarassing. All of that stuff remains private. Hopefully those projects turn into something worth sharing someday.
+---
 
-Take a look around. Hopefully you find something useful... or something that makes you laugh. Whichever comes first.
+Here are some projects aren't *entirely* embarassing. Feel free to look around. It is my hope that you find something useful and/or entertaining.
